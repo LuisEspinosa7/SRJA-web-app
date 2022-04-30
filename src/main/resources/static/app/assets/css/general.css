@@ -1,0 +1,103 @@
+html, body {
+	color: #4c4c4c;
+	font: normal 92% 'Roboto Condensed', Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: thin;
+	font-stretch: normal;
+	line-height: normal;
+	font-size: 14px;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+.paginate_button {
+	
+}
+
+.dataTables_wrapper .dataTables_paginate a.paginate_button.current {
+	background: #4CAF50 !important;
+	border: none !important;
+	color: #edecec !important;
+}
+
+.dataTables_wrapper .dataTables_paginate a.paginate_button:hover {
+	background: none;
+	color: #2f2f2f !important;
+}
+
+.dataTables_wrapper .dataTables_paginate a.paginate_button.current:hover
+	{
+	background: #4CAF50 !important;
+	color: #edecec !important;
+}
+
+select {
+	background: none;
+}
+
+md-dialog {
+	border-radius: 0;
+}
+
+md-input-container:not (.md-input-invalid ).md-input-focused .md-input {
+	border-color: #2f2f2f;
+}
+
+md-input-container:not (.md-input-invalid ).md-input-focused label {
+	color: #2f2f2f !important;
+}
+
+form button.md-raised.md-accent.md-button.md-ink-ripple {
+	color: #ffffff;
+}
+
+md-radio-group.md-default-theme:not ([disabled] ) .md-primary ._md-on,
+	md-radio-group:not ([disabled] ) .md-primary ._md-on, md-radio-group.md-default-theme:not
+	([disabled] ).md-primary ._md-on, md-radio-group:not ([disabled] ).md-primary ._md-on,
+	md-radio-button.md-default-theme:not ([disabled] ) .md-primary ._md-on,
+	md-radio-button:not ([disabled] ) .md-primary ._md-on, md-radio-button.md-default-theme:not
+	([disabled] ).md-primary ._md-on, md-radio-button:not ([disabled] ).md-primary ._md-on
+	{
+	background-color: #2f2f2f !important;
+}
+
+md-radio-group.md-default-theme:not ([disabled] ) .md-primary .md-checked ._md-off,
+	md-radio-group:not ([disabled] ) .md-primary .md-checked ._md-off,
+	md-radio-group.md-default-theme:not ([disabled] ) .md-primary.md-checked ._md-off,
+	md-radio-group:not ([disabled] ) .md-primary.md-checked ._md-off,
+	md-radio-group.md-default-theme:not ([disabled] ).md-primary .md-checked ._md-off,
+	md-radio-group:not ([disabled] ).md-primary .md-checked ._md-off,
+	md-radio-group.md-default-theme:not ([disabled] ).md-primary.md-checked ._md-off,
+	md-radio-group:not ([disabled] ).md-primary.md-checked ._md-off,
+	md-radio-button.md-default-theme:not ([disabled] ) .md-primary .md-checked ._md-off,
+	md-radio-button:not ([disabled] ) .md-primary .md-checked ._md-off,
+	md-radio-button.md-default-theme:not ([disabled] ) .md-primary.md-checked ._md-off,
+	md-radio-button:not ([disabled] ) .md-primary.md-checked ._md-off,
+	md-radio-button.md-default-theme:not ([disabled] ).md-primary .md-checked ._md-off,
+	md-radio-button:not ([disabled] ).md-primary .md-checked ._md-off,
+	md-radio-button.md-default-theme:not ([disabled] ).md-primary.md-checked ._md-off,
+	md-radio-button:not ([disabled] ).md-primary.md-checked ._md-off {
+	border-color: #2f2f2f !important;
+}
+
+.options {
+	background: #4CAF50 !important;
+	color: #edecec !important;
+	margin-left: 2px !important;
+}
+
+.options[disabled] {
+	background-color: rgba(193, 193, 193, 0.96) !important;
+	color: #ffffff !important;
+	transition: 0.3s;
+}
+
+/************Pocisiones de los botones***************/
+.options {
+	width: 100%;
+	margin-top: 2px !important;
+}
+/************Pocisiones de los botones***************/
+

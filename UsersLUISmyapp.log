@@ -1,0 +1,176 @@
+2017-09-22 15:32:32 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:32:32 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:32:33 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 500 (INTERNAL SERVER ERROR); invoking error handler
+2017-09-22 15:34:45 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:34:45 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:34:45 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:34:45 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:34:46 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:34:46 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:34:46 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:34:46 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:34:47 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:34:47 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:34:47 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:34:47 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:34:48 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:34:48 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:34:48 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:34:48 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:34:49 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:34:49 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:34:49 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:34:49 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:34:50 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:34:50 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:34:50 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:34:50 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:34:51 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:34:51 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:34:51 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:34:51 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:34:52 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:34:52 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:34:52 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:34:52 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:34:53 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:34:53 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:34:53 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:34:53 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:34:54 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:34:54 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:34:54 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:34:54 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:36:50 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:36:50 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:36:50 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:36:50 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:37:00 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:37:00 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:37:00 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:37:00 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:37:10 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:37:10 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:37:10 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:37:10 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:37:20 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:37:20 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:37:20 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:37:20 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:37:30 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:37:30 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:37:31 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:37:31 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:37:41 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:37:41 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:37:41 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:37:41 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:37:51 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:37:51 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:37:51 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:37:51 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:38:01 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:38:01 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:38:01 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:38:01 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:38:11 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:38:11 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:38:11 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:38:11 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:38:21 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:38:21 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:38:21 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:38:21 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:45:36 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:45:36 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:45:36 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 500 (INTERNAL SERVER ERROR); invoking error handler
+2017-09-22 15:47:20 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:47:20 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:47:20 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:47:20 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:47:30 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:47:30 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:47:30 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:47:30 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:47:40 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:47:40 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:50:29 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:50:29 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:50:29 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:50:29 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:50:39 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:50:39 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:50:39 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:50:39 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:50:49 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:50:49 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:50:49 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:50:49 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:50:59 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:50:59 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:50:59 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:50:59 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:51:09 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:51:09 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:51:09 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:51:09 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:51:19 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:51:19 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:51:19 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:51:19 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:51:29 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:51:29 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:51:29 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:51:29 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:51:39 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:51:39 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:51:39 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:51:39 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:51:49 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:51:49 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:51:50 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:51:50 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-22 15:52:00 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-22 15:52:00 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-22 15:52:00 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-22 15:52:00 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-23 11:29:18 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-23 11:29:18 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-23 11:29:18 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-23 11:29:18 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-23 11:29:28 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-23 11:29:28 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-23 11:29:28 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-23 11:29:28 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-23 11:29:38 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-23 11:29:38 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-23 11:29:38 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-23 11:29:38 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-23 11:29:48 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-23 11:29:48 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-23 11:29:48 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-23 11:29:48 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-23 11:29:58 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-23 11:29:58 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-23 11:29:58 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-23 11:29:58 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-23 11:30:08 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-23 11:30:08 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-23 11:30:08 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-23 11:30:08 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-23 11:30:18 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-23 11:30:18 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-23 11:30:18 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-23 11:30:18 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-23 11:30:28 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-23 11:30:28 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-23 11:30:28 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-23 11:30:28 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-23 11:30:38 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-23 11:30:38 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-23 11:30:38 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-23 11:30:38 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
+2017-09-23 11:30:48 DEBUG RestTemplate:79 - Created GET request for "http://192.168.0.13:5000/domotica/api/nodos/4"
+2017-09-23 11:30:48 DEBUG RestTemplate:720 - Setting request Accept header to [application/json, application/*+json]
+2017-09-23 11:30:48 DEBUG RestTemplate:632 - GET request for "http://192.168.0.13:5000/domotica/api/nodos/4" resulted in 200 (OK)
+2017-09-23 11:30:48 DEBUG RestTemplate:92 - Reading [class com.sevensoftware.domotica.dto.Respuesta] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@75881071]
