@@ -45,8 +45,6 @@ You can find them here:
 - Controller: https://github.com/LuisEspinosa7/-SRJA-controller-node
 - Actuator: https://github.com/LuisEspinosa7/SRJA-actuator-node
 
-https://youtu.be/R3nJAr5eoEk
-
 
 ## Pictures
 Some pictures of the project on a local environment respectively:
